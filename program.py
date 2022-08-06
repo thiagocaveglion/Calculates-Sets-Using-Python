@@ -64,10 +64,22 @@ for linha in lista:
 
 print(f"serão realizadas {num} operações")
 print("operações de união geraram a(s) lista(s): ")
-for j in u: print(j)
+print("-"*58)
+for j in u: 
+  print(j)
+  print("-"*58)
 print("operações de intersecção geraram a(s) lista(s): ")
-for j in i: print(j)
+print("-"*58)
+for j in i:
+  print(j)
+  print("-"*58)
 print("operações de diferença geraram a(s) lista(s): ")
-for j in d: print(j)
+print("-"*58)
+for j in d: 
+  print(j)
+  print("-"*58)
 print("operações de produto cartesiano geraram a(s) lista(s): ")
-for j in c: print(j)
+print("-"*58)
+for j in c: 
+  print(j)
+  print("-"*58)
