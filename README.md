@@ -14,6 +14,8 @@ operator...
 
 there is an example for each operator in the txt file
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+# Calcula-Conjuntos-Usando-Python
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 # português
 Dado, em um arquivo txt, um número de operações, o tipo de operação -que pode ser U (união), I (intersecção), D (diferença) e C (produto cartesiano)-
 escreve no console os resultados das operações
