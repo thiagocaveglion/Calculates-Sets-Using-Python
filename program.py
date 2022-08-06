@@ -14,7 +14,8 @@ num = "algumas"
 # d = diferenca
 # c = produto cartesiano
 for char in data.split("\n"):
-    lista.append(char)
+    if char.strip() != "":
+        lista.append(char)
 
 for linha in lista:
     if linha != "":
