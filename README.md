@@ -26,5 +26,5 @@ conjunto um (elemento1,elemento2,elemento3,elemento4...)
 conjunto dois (elemento1,elemento2,elemento3,elemento4...)
 operador...
 
-o arquivo de texto possui um exemplo para cada operador
+o arquivo txt possui um exemplo para cada operador
 -------------------------------------------------------------------------------------------------------------------------------------------------------
