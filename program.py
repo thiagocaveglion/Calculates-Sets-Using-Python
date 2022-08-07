@@ -22,7 +22,7 @@ for indice, linha in enumerate(lista):
         if linha == lista[0] and linha in "0123456789":
             num = linha[0]
             continue
-        elif len(linha) == 1 and linha.strip() in "UIDC":
+        elif len(linha) == 1 and linha.strip().upper() in "UIDC":
             s = 2
             operacao = linha.strip()
             continue
